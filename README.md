@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @MaplePuffin
-- 👀 I’m interested in playable.
 - 🌱 I’m currently learning html.
 - 💞️ I’m looking to collaborate on nothing.
 - 📫 How to reach me: No socials.
